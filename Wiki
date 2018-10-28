@@ -1,0 +1,6 @@
+Directories
+
+App: The application folder which will be found controllers, views and models
+from thi MVC framework.
+
+    core: Files routing, handles reuqests etc
