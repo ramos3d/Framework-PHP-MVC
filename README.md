@@ -1,4 +1,4 @@
-# PHP-MVC - A PHP Framework 
+# PHP-MVC - A MVC structure using Eloquent ORM
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.1-8892BF.svg)](https://php.net/)
 [![License](https://poser.pugx.org/typo3/cms/license)](https://packagist.org/packages/typo3/cms)
