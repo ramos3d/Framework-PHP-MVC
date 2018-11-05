@@ -1,6 +1,7 @@
 <?php
 /**
- *
+ * @model The model that will be loaded
+ * @view The respective view that will be loaded as well
  */
 class Controller
 {
